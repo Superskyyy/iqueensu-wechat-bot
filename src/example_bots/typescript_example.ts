@@ -16,11 +16,7 @@
  *   limitations under the License.
  *
  */
-import {
-    Contact,
-    Message,
-    Wechaty,
-} from 'wechaty'
+import {Contact, Message, Wechaty,} from 'wechaty'
 
 import qrTerm from 'qrcode-terminal'
 

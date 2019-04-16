@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This cannot be ran on windows linux subsystem, since docker doesnt support such thing
-# Use soemthing like webstorm + docker to test.
+
 
 function start() {
   sudo docker run \
@@ -13,3 +13,5 @@ function start() {
     zixia/wechaty:latest \
     "$@"
 }
+
+start $1
