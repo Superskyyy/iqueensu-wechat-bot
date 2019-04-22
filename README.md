@@ -1,7 +1,13 @@
+# WECHAT ACCOUNT BANNED, PROJECT PUT ON HOLD INDEFINITELY.
+
+
+
 # iqueensu-wechat-bot
 A Queen's wechat room bot built with Wechaty SDK
 
 The implementation is built for, and tested on Wechat Web, but should work on any puppet.
+
+
 
 ## To Do List
 
